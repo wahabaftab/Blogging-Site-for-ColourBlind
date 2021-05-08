@@ -5,7 +5,7 @@ This repo contains a blogging website designed for normal people as well as thos
 
 ### Instructions:
 
-* This project can be run on a wampserver for that place Project Folder inside www. It should look like this:
+* This project can be run on a wampserver for that place Project Folder inside Wamp. It should look like this:
 Wamp->www->Project->Index.php
 * Use the SQL file on localhost/phpmyadmin to IMPORT the database.
 * Signup on the site and remember your password etc.
