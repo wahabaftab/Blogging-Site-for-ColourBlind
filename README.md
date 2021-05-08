@@ -5,10 +5,8 @@ This repo contains a blogging website designed for normal people as well as thos
 
 ### Instructions:
 
-This project can be run on a wampserver for that place Project Folder inside www. It should look like this
-Wamp->www->Project->Index.php
-Use the SQL file on localhost/phpmyadmin to IMPORT the database.
-The import option is on the top bar of phpmyadmin
-Signup on the site and remember your password etc.
-Also, remember, everything works through index.php,thats what you run
+* This project can be run on a wampserver for that place Project Folder inside www. It should look like this:     Wamp->www->Project->Index.php
+* Use the SQL file on localhost/phpmyadmin to IMPORT the database.
+* Signup on the site and remember your password etc.
+* Also, remember, everything works through index.php,thats what you run.
 
