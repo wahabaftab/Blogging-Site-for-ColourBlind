@@ -2,7 +2,7 @@
 
 This repo contains a blogging website designed for normal people as well as those who are visually impaired or suffer from color-blindness.
 
-More details about the project can be found here:  https://wahabaftab.com/Colour_Blind_Site/
+More details about the project can be found here:  https://wahabaftab.com/Colour-Blind-Site/
 
 
 ### Instructions:
